@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">In And Out Burger</string>
+    <string name="double_double_text">Double Double</string>
+    <string name="cheeseburger_text">Cheeseburger</string>
+    <string name="hamburger_text">Hamburger</string>
+    <string name="shake_text">Shakes</string>
+    <string name="fountain_drink_text">Fountain Drinks (pick size)</string>
+    <string name="small_drink_text">Small</string>
+    <string name="medium_drink_text">Medium</string>
+    <string name="large_drink_text">Large</string>
 </resources>
